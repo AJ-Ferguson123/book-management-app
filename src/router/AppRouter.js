@@ -11,8 +11,8 @@ const AppRouter = () => {
                 <Header />
                 <div className="main-content">
                     <Switch>
-                        <Rotute component={BookList} path="/" exact={true} />
-                        <Rotute component={AddBook} path="/add" />
+                        <Route component={BookList} path="/" exact={true} />
+                        <Route component={AddBook} path="/add" />
                     </Switch>
                 </div>
             </div>
