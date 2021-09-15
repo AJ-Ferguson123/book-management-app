@@ -1,4 +1,4 @@
-Just making a react-app with add/delete feature that stores memory in cache. Some hooks used to create the app as well as some simple bootstarpping
+Just making a react-app with CRUD feature that stores memory in cache. Some hooks used to create the app as well as some simple bootstarpping
 
 
 # Getting Started with Create React App
