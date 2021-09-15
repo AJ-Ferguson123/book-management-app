@@ -1,3 +1,6 @@
+Just making a react-app with add/delete feature that stores memory in cache. Some hooks used to create the app as well as some simple bootstarpping
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
