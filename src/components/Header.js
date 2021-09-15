@@ -10,8 +10,12 @@ const Header = () => {
                 <NavLink to='/' className="link" activeClassName="active" exact>
                     Book List
                 </NavLink>
+                <NavLink to="/add" className="link" activeClassName="active">
+                    Add Book
+                </NavLink>
             </div>
         </header>
+    );
+};
 
-    )
-}
+export default Header;
